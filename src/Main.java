@@ -1,8 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-       int t = 1500;
-       int m =  t / 20;
+        int t = 1500;
+        int m = t / 20;
         System.out.println(m);
+
+        int m = 75;
     }
+
 }
