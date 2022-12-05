@@ -1,11 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int t = 1500;
-        int m = t / 20;
-        System.out.println(m);
-
-        int m = 75;
+        int ticket = 1500;
+        int mile = ticket / 20;
+        System.out.println(mile);
     }
 
 }
